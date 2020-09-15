@@ -11,9 +11,10 @@ __Project Root__
     + ../img/
         * ../cat.png
 - /demos/
-    + ../blank.py
     + ../animation.py
+    + ../blank.py
     + ../drawing.py
+    + ../textdrawing.py
 - /docs/
     + ../source-guide_making-games-with-python-and-pygame_al-sweigart.pdf
 - /README.md

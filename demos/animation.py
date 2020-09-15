@@ -22,9 +22,7 @@ pygame.display.set_caption('Kitty Cat Animation')
 # --------------------------
 # Declare Env-Vars & Objects
 # --------------------------
-WHITE = (255, 255, 255)
 BLACK = (  0,   0,   0)
-GRAY  = ( 21,  21,  21)
 catImg = pygame.image.load('../assets/img/cat.png')
 catx = 10
 caty = 10
@@ -38,13 +36,8 @@ while True:
     # ------------
     # Style Screen
     # ------------
-    # Check the toggle variable and fill the display surface accordingly.
-    if screenToggle == 'one':
-        DISPLAYSURF.fill(BLACK)
-        screenToggle = 'two'
-    elif screenToggle == 'two':
-        DISPLAYSURF.fill(GRAY)
-        screenToggle = 'one'
+    # Fill the display surface with black.
+    DISPLAYSURF.fill(BLACK)
     # --------------
     # Set Animations
     # --------------
@@ -86,7 +79,7 @@ while True:
             if catx == 10:
                 direction = 'right'
                 directionToggle = 'one'
-    # Blit the surface and image to animate according to the set configuration.
+    # Blit the surface and image to animate according the previous settings.
     DISPLAYSURF.blit(catImg, (catx, caty))
     # -------------
     # Handle Events
