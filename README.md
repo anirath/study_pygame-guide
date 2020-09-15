@@ -29,18 +29,18 @@ The following is a list of all of the project's files and directories, and repre
 
 <sup><b id="f1">1</b>: All assets used in _demos_ are sorted into directories here. Also, other assets have been added to for the custom demos and modified defaults. [&#9166;](#a1)</sup>
 
-<sup><b id="f2">2</b>: A zip file containing all of the assets used by the [guide][5]. [$#9166;](#a2)</sup>
+<sup><b id="f2">2</b>: A zip file containing all of the assets used by the [guide][5]. [&#9166;](#a2)</sup>
 
-<sup><b id="f3">3</b>: My favorite monospaced font family, [Space Mono TrueType Fonts][6] (_A Google Font_). So, I decided to use it in some of the demos. [$#9166;](#a3)</sup>
+<sup><b id="f3">3</b>: My favorite monospaced font family, [Space Mono TrueType Fonts][6] (_A Google Font_). So, I decided to use it in some of the demos. [&#9166;](#a3)</sup>
 
 <sup><b id="f4">4</b>: All of the _games_ and _programs_ that the [guide][5] contains will have an associated demo here. Keep in mind that some of the filenames don't match what is
 given in the source, and the actual source code for some of them doesn't necessarily match either as I significantly altered and added to most of them for the sake of exploring and
-researching functionality further. [$#9166;](#a4)</sup>
+researching functionality further. [&#9166;](#a4)</sup>
 
-<sup><b id="f5">5</b>: All of this project's _documentation_, and any other pertinent documents, can be found in this directory. [$#9166;](#a5)</sup>
+<sup><b id="f5">5</b>: All of this project's _documentation_, and any other pertinent documents, can be found in this directory. [&#9166;](#a5)</sup>
 
 <sup><b id="f6">6</b>: The [guide][5] used as a base for this project in the first place. While I have taken many liberties to explore the subject in my way, I still think this guide
-itself is actually quite good at walking someone through understanding how to make simple games using python and pygame. [$#9166;](#a6)</sup>
+itself is actually quite good at walking someone through understanding how to make simple games using python and pygame. [&#9166;](#a6)</sup>
 
 [1]: https://pygame.org/
 [2]: https://www.python.org/
