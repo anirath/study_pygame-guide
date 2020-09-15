@@ -7,7 +7,7 @@ A Study Project, created by [Anirath][4] for learning about using [PyGame][1] wi
 The following is a list of all of the project's files and directories, and represents the file/folder structure of the [repo][3].
 
 ### Project Root
-- /assets/[^1]
+- /assets/ <sup id="a1">[1](#1)</sup>
     + ../archives/
         * ../guide-source_all-guide-assets-from-online-source.zip[^2]
     + ../fonts/
@@ -27,7 +27,7 @@ The following is a list of all of the project's files and directories, and repre
     + ../guide-source_making-games-with-python-and-pygame_al-sweigart.pdf (The project uses this guide as a base.)
 - /README.md (This document actually.)
 
-[^1]: All of the assets from the guide are here sorted into relevant directories. Also, other assets have been added to for the custom demos and modified defaults.
+<b id="f1">1</b>: All of the assets from the guide are here sorted into relevant directories. Also, other assets have been added to for the custom demos and modified defaults. (#a1)
 [^2]: A zip file containing all of the assets used by the [guide][5]
 [^3]: My favorite monospaced font family. So, I decided to use it in some of the demo games.
 [^bignote]: All of the "_games_" and "_programs_" that the [guide][5] contains will have an associated demo here. Keep in mind that some of the filenames don't match what is
