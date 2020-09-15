@@ -27,7 +27,7 @@ The following is a list of all of the project's files and directories, and repre
     + ../guide-source_making-games-with-python-and-pygame_al-sweigart.pdf <sup id="a6">[6](#f6)</sup>
 - /README.md
 
-<sup><b id="f1">1</b>: All assets used in the _demo_ programs are sorted into directories here. Also, other assets have been added to for the custom demos and modified defaults.</sup> [&#e28f8e;](#a1)
+<sup><b id="f1">1</b>: All assets used in the _demo_ programs are sorted into directories here. Also, other assets have been added to for the custom demos and modified defaults.</sup> [&#9166;](#a1)
 </sup>
 
 <b id="f2">2</b>: A zip file containing all of the assets used by the [guide][5]. [BACK](#a2)
